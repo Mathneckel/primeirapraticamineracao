@@ -1,1 +1,1 @@
-# primeirapraticamineracao
+# primeira_pratica_mineracao
